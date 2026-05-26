@@ -1,0 +1,6 @@
+interface:
+  display_name: "Ecc Demo"
+  short_description: "Repo-specific patterns and workflows for ecc-demo"
+  default_prompt: "Use the ecc-demo repo skill to follow existing architecture, testing, and workflow conventions."
+policy:
+  allow_implicit_invocation: true
